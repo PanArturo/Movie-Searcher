@@ -1,0 +1,14 @@
+<!-- ejs connection for partials, header template of an html file -->
+<%- include("partials/header") %>
+
+<h1> Result Page </h1>
+
+<!-- Display the contents of data.Search from the JSON -->
+<% for(var i = 0; i < data.Search.length; i++){ %>
+	<li> Movie #<%= i+1 %>: <%= data.Search[i].Title %> - <%= data.Search[i].Year %> </li>
+<% } %>
+
+<a href="/"> Back </a>
+
+<!-- ejs connection for partials, footer template of an html file -->
+<%- include("partials/footer") %>
