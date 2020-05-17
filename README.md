@@ -2,9 +2,8 @@
 
 Search tons of movies in the history with just a few keywords!
 
-Based on OMDb API -- (http://www.omdbapi.com)
-
-Created using Node.js - Express.js
+Created using Based on OMDb API
+              Node.js - Express.js
               HTML/CSS
               Javascript
               EJS - Embedded JavaScript templates
