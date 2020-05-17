@@ -1,0 +1,17 @@
+<!-- ejs connection for partials, header template of an html file -->
+<%- include("partials/header") %>
+
+<h1> Search Page </h1>
+
+<!-- action submits the result from the text field to the /result route that is a GET method -->
+<form action="/result" method="GET">
+	<label> Insert keyword to search for movies. </label>
+	<br>
+<!-- search is the key, user input is the value, key/value pair will be on the URL as ?search=userInput	 -->
+ 	<input type="text" placeholder="movie term" name="search">
+	<br>
+ 	<input type="submit">
+</form>
+
+<!-- ejs connection for partials, footer template of an html file -->
+<%- include("partials/footer") %>
