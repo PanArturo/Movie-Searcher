@@ -1,0 +1,21 @@
+{
+  "name": "movie",
+  "version": "1.0.0",
+  "description": "User interactive site to search list of movies by providing a keyword. 
+                  Accomplished using Server-side Express Framework in Node environment by 
+                  requesting JSON data from OMDb API. Refactor files and code using EJS and partials.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Arturo Pan Loo",
+  "license": "ISC",
+  "dependencies": {
+    "connect-flash": "^0.1.1",
+    "cookie-parser": "^1.4.5",
+    "ejs": "^3.1.2",
+    "express": "^4.17.1",
+    "express-session": "^1.17.1",
+    "request": "^2.88.2"
+  }
+}
