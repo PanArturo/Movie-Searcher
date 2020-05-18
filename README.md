@@ -16,7 +16,7 @@ Check it out!
 
 2. Retrieving JSON and parsing it to get what I needed.
 
-3. Node.js -- Multiple packages downloaded from npm
+3. Node.js -- Understand and utilize multiple packages downloaded from npm
 
 4. Node.js -- user requests and re-routing.
 
