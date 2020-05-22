@@ -1,6 +1,6 @@
 # Movie-Searcher
 
-Search tons of movies in the history with just a few keywords!
+Search movies out of a movie database with few keywords.
 
 Created using OMDb API
               Node.js 
@@ -8,8 +8,6 @@ Created using OMDb API
               HTML/CSS
               Javascript
               EJS
-              
-Check it out!
 
 # Techniques 
 
