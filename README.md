@@ -2,23 +2,28 @@
 
 Search movies out of a movie database with few keywords.
 
-Created using OMDb API
+Created using 
+
+              OMDb API
+              
               Node.js 
+              
               Express.js
+              
               HTML/CSS
+              
               Javascript
+              
               EJS
 
 # Techniques 
 
-1. Express.js routing techniques.
+              - RESTful routing.
 
-2. Retrieving JSON and parsing it to get what I needed.
+              - JSON parsing.
 
-3. Node.js -- Understand and utilize multiple packages downloaded from npm
+              - Varius NPM modules.
 
-4. Node.js -- user requests and re-routing.
+              - EJS: Embedded Javascript.
 
-5. EJS -- Embedded Javascript.
-
-6. Code reuse -- custom assets and partials with EJS.
+              - Code reuse: custom assets and partials.
