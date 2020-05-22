@@ -2,11 +2,12 @@
 
 Search tons of movies in the history with just a few keywords!
 
-Created using Based on OMDb API
-              Node.js - Express.js
+Created using OMDb API
+              Node.js 
+              Express.js
               HTML/CSS
               Javascript
-              EJS - Embedded JavaScript templates
+              EJS
               
 Check it out!
 
