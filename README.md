@@ -4,17 +4,17 @@ Search movies out of a movie database with few keywords.
 
 Created using 
 
-              OMDb API
+              - OMDb API
               
-              Node.js 
+              - Node.js 
               
-              Express.js
+              - Express.js
               
-              HTML/CSS
+              - HTML/CSS
               
-              Javascript
+              - Javascript
               
-              EJS
+              - EJS
 
 # Techniques 
 
